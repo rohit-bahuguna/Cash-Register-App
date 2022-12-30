@@ -62,7 +62,7 @@ function App() {
 			<button onClick={calculateChange}>Check</button>
 			<table>
 				<tr>
-					<th>No of Notes</th>
+					<th>Number of Notes</th>
 					{balance &&
 						balance.map(value => {
 							return (
