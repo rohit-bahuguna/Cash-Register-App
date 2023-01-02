@@ -50,3 +50,12 @@ td {
 
 	padding: 2vw;
 }
+
+footer {
+	text-align: center;
+}
+footer a i {
+	margin: 20px 0 20px 30px;
+	font-size: 50px;
+	color: var(--para);
+}

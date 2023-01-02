@@ -85,6 +85,26 @@ function App() {
 					<td>1</td>
 				</tr>
 			</table>
+			<footer>
+				<p>@ | 2022 | Rohit Bahuguna</p>
+
+				<div className="horizontal">
+					<a href="https://twitter.com/rohitba96862397" target="_blank">
+						<i className="footer_icon fab fa-2x fa-twitter" />
+					</a>
+					<a
+						href="https://www.linkedin.com/in/rohit--bahuguna/"
+						target="_blank">
+						<i className="footer_icon fab fa-2x fa-linkedin" />
+					</a>
+					<a href="https://github.com/rohit-bahuguna/" target="_blank">
+						<i className="footer_icon fab fa-2x fa-github" />
+					</a>
+					<a href="https://rohit-bahuguna.netlify.app/" target="_blank">
+						<i className="fa fa-2x fa-home" aria-hidden="true" />
+					</a>
+				</div>
+			</footer>
 		</div>
 	);
 }
