@@ -1,4 +1,4 @@
-#Cash Register Manager App (Mark 10)
+# Cash Register Manager App (Mark 10)
 
 Cash Register Manager [Click here to visit](https://cash-register-by-rohit-bahuguna.netlify.app/).
 
